@@ -1,0 +1,23 @@
+##############################################################################
+# FILE:        moos-ivp-extend/releases/README
+# DATE:        2010/09/07
+# DESCRIPTION: README for the releases directory of the moos-ivp-extend
+#              repository.
+##############################################################################
+
+Releases of the moos-ivp-extend repository aren't necessarily "new" 
+releases. They are simply snapshots of the moos-ivp-extend directory at the
+time when the moos-ivp repository makes a formal release. This is done to
+allow the code in the moos-ivp-extend repository to be consistent with the
+documentation MOOS-IvP.
+
+
+
+
+
+
+
+##############################################################################
+#                  END of moos-ivp-extend/releases/README
+##############################################################################
+
